@@ -1,0 +1,40 @@
+
+body {
+    /* background: turquoise #40E0D0; */
+    background-image: url('https://i.pinimg.com/originals/52/9b/29/529b29b8ac6657701370f6d6a13dc1d2.jpg');
+    background-size: auto 100vh;
+    height: 100vh;
+    font-family: Arial;
+  }
+  
+  .menu{
+    background-color: lightgrey;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+    fon-family
+  }
+  
+  a{
+    text-decoration: none;
+  }
+  
+  a:hover{
+    text-decoration:underline;
+  }
+  
+  .site-subtitle,
+  .site-title{
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle{
+    font-style: italic;
+  }
