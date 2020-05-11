@@ -1,14 +1,14 @@
 
 body {
     /* background: turquoise #40E0D0; */
-    background-image: url('https://i.pinimg.com/originals/52/9b/29/529b29b8ac6657701370f6d6a13dc1d2.jpg');
+    background-image: url('http://wallpaperping.com/wp-content/uploads/2018/05/firewatch-night-widescreen-wallpaper.jpg');
     background-size: auto 100vh;
     height: 100vh;
     font-family: Arial;
   }
   
   .menu{
-    background-color: lightgrey;
+    background-color:whitesmoke;
   }
   
   .menu li{
@@ -18,20 +18,23 @@ body {
   .menu ul{
     display: flex;
     justify-content: space-around;
-    fon-family
   }
   
   a{
     text-decoration: none;
+    color: black;
+    font-style: normal;
+    font-weight: bold;
   }
   
   a:hover{
     text-decoration:underline;
+    color: purple;
   }
   
   .site-subtitle,
   .site-title{
-    color: whitesmoke;
+    color: white;
     text-align: center;
   }
   
